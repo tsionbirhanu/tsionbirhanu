@@ -1,5 +1,5 @@
 
-# 💫 Hey 👋, I'm Tsion Birhanu
+# Hey 👋, I'm Tsion Birhanu
 **A passionate Software Engineer || Junior Full-Stack Developer from Ethiopia**
 
 Email Me 👉 ✉️ **tsionbirhanu08@gmail.com** For Collaboration/Project or Anything Else. 😊😊
