@@ -5,9 +5,10 @@
  🌱 **Currently Working On** : Building full-stack projects using **Next.js**, **Tailwind CSS**, **TypeScript**, **Shadcn UI**, **RESTful API** backend integration<br>
  🤝 **I'm looking to collaborate on** : Inspiring full-stack projects, Open source contributions, Ideas that make a real impact<br>
  💬 **Ask me about** : Transforming **Figma** designs into live, responsive apps, Creating beautiful UIs with great user experience 
+ ### 📫 Reach Out!
  <p align="left">
-  <strong>Email:</strong> <a href="mailto:tsionbirhanu08@gmail.com">tsionbirhanu08@gmail.com</a><br/>
-  I’m open to collaborations, freelance work, or anything tech-related!
+  Whether it's for a project, collaboration, freelance opportunity or just to say hi feel free to email me:<br/>
+   <a href="mailto:tsionbirhanu08@gmail.com">tsionbirhanu08@gmail.com</a>
 </p>
 
 ## 🏆 GitHub Trophies
