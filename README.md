@@ -28,12 +28,3 @@ Email Me 👉 ✉️ **tsionbirhanu08@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.vercel.app/api?username=tsionbirhanu&theme=holi&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tsionbirhanu&theme=holi&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsionbirhanu&theme=holi&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tsionbirhanu&limit=5&theme=holi&combine_all_yearly_contributions=true)
-
-
