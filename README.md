@@ -12,7 +12,8 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tsion-birhanu-76988a338) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TsionBirha87415) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsionbirhanu08@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsion-b-97443b373
+)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TsionBirha87415) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsionbirhanu08@gmail.com) 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tsionbirhanu&label=Profile%20views&color=0e75b6&style=flat" alt="tsionbirhanu" />
